@@ -166,7 +166,7 @@ class ApiController extends Controller
         }
     }
 
-    public function getAuthUser()
+ public function getAuthUser()
     {
       
  
